@@ -1,4 +1,0 @@
-Invoking command in '/home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces -- -j16 -l16
-Invoked command in '/home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces -- -j16 -l16
-Invoking command in '/home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces
-Invoked command in '/home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marthen/ros2_ws/wheelchair_interfaces/build/wheelchair_interfaces
