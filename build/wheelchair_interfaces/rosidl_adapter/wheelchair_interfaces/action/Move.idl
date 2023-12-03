@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from wheelchair_interfaces/action/Move.action
+// generated code does not contain a copyright notice
+
+
+module wheelchair_interfaces {
+  module action {
+    struct Move_Goal {
+      string movement;
+
+      @default (value=0.0)
+      float angle;
+    };
+    struct Move_Result {
+      @default (value=0.0)
+      float angle;
+    };
+    struct Move_Feedback {
+      @default (value=0.0)
+      float angle;
+    };
+  };
+};
