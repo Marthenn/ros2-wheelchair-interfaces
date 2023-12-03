@@ -1,6 +1,0 @@
-{
-  "package_name": "wheelchair_interfaces",
-  "non_idl_tuples": [
-    "/home/marthen/ros2_ws/wheelchair_interfaces:action/Move.action"
-  ]
-}
